@@ -1,0 +1,8 @@
+public static int divide(int a, int b)  {
+			
+			if(b==0) {
+				throw new divide("not allowed");
+			}
+			
+			return a/b;
+		}

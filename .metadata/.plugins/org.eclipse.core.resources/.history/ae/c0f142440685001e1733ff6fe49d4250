@@ -1,0 +1,15 @@
+package Generics;
+
+public class G6<T> {
+	
+	public void f1(T a) {
+		System.out.println(a);
+	}
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

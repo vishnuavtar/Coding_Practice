@@ -1,0 +1,17 @@
+import java.util.HashMap;
+
+public class AAA {
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println(20+20+"test");
+		System.out.println("test"+20+20);
+		
+		
+		HashMap<String , String> map = new HashMap<>();
+		
+		
+	}
+
+}
